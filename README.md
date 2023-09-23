@@ -1,1 +1,1 @@
-# Infromatica
+# Informatica
