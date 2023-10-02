@@ -1,7 +1,7 @@
-<img src="Images/UAM Logo PNG.png" alt="UAM I" width="20%"/>
+<img src="Images/UAM Logo PNG.png" alt="UAM I" width="50%"/>
 
 # Informatica
-## Naomi Flores Huesca
+## Flores Huesca Naomi
 **Correo Electronico:**  naomi.huescaf@gmail.com
 
 
