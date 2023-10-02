@@ -4,4 +4,4 @@
 
 <img src="https://github.com/naomihuesca/Informatica/blob/main/Imagenes/2.jpeg" height="700" width="550">
 
-> [*Continuar*](Tarea 1.2.md)
+> [*Continuar*](Tarea1.2.md)
