@@ -1,6 +1,6 @@
 <img src="Images/UAM Logo PNG.png" alt="UAM I" width="50%"/>
 
-# Informatica
+# INFORMÁTICA
 ## Flores Huesca Naomi
 **Correo Electronico:**  naomi.huescaf@gmail.com
 
@@ -22,7 +22,7 @@ Software
 - [Algoritmos]
 - [De pseudocódigo a R]
 
-### UNNIDAD III
+### UNIDAD III
 Sistemas Operativos
 
 ####
