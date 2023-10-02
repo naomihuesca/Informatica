@@ -9,10 +9,10 @@
 
 ### UNIDAD I
 Introducción:
-- [La computadora y su contexto histórico]()
-- [La disciplina de la computación: contexto histórico, evolución e importancia] ()
-- [Partes de la computadora] ()
-- [Adquisición de una computadora] ()
+- [La computadora y su contexto histórico](Tarea1.1.md)
+- [La disciplina de la computación: contexto histórico, evolución e importancia] (Tarea1-2.md)
+- [Partes de la computadora] (Tarea1-3.md)
+- [Adquisición de una computadora] 
 
 ### UNIDAD II
 Software
