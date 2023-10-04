@@ -1,6 +1,6 @@
 # Instalación de sistemas operativos como máquinas virtuales
 
-###¿Qué es la virtualización?###
+### ¿Qué es la virtualización? ###
 
 La virtualización es un proceso que permite una utilización más eficiente del hardware físico de la computadora 
 y es la base de la computación en la nube. El software de virtualización crea una capa de abstracción sobre el 
