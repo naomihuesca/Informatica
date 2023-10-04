@@ -23,10 +23,14 @@ Software
 - [De pseudocódigo a R](Tarea2.5.md)
 
 ### UNIDAD III
-Sistemas Operativos
 
-####
-Bases de datos
+- [Licenciamiento de software](Tarea3.1.md)
+- [Instalación de sistemas operativos en un medio extraible](Tarea3.2.md)
+- [nstalación de sistemas operativos como máquinas virtuales](Tarea3.3.md)
+- [Particiones y sistemas de archivos](Tarea3.4.md)
+
+
+
 
 
 
