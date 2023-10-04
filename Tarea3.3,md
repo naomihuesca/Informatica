@@ -1,13 +1,13 @@
 # INSTALACIÓN DE SISTEMAS OPERATIVOS COMO MÁQUINAS VIRTUALES
 
-###¿Qué es la virtualización?###
+**¿Qué es la virtualización?**
 
 La virtualización es un proceso que permite una utilización más eficiente del hardware físico de la computadora 
 y es la base de la computación en la nube. El software de virtualización crea una capa de abstracción sobre el 
 hardware de la computadora que permite que los elementos de hardware de una sola computadora (procesadores, 
 memoria, almacenamiento y más) se dividan en múltiples computadoras virtuales, comúnmente llamadas máquinas virtuales (VM).
 
-###¿Qué es la maquina virtual?###
+**¿Qué es la maquina virtual?**
 
 Una máquina virtual (VM) es un entorno de software que simula una computadora completa, incluyendo hardware y sistema 
 operativo, dentro de un sistema informático físico. Permite ejecutar múltiples sistemas operativos y aplicaciones independientes 
