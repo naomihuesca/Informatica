@@ -18,6 +18,7 @@ Es la partición desde la que puede arrancar el sistema operativo. Para que esto
 
 **GPT**
 GPT es un acrónimo que significa "Modelo Predictivo de Lenguaje Generativo". Se trata de un modelo de lenguaje desarrollado por OpenAI que puede generar texto de forma autónoma y coherente en una amplia variedad de temas.
+
 **MBR**
 El MBR es un tipo especial de sector de arranque que se encuentra en el comienzo de los dispositivos de almacenamiento de datos particionados.
 
