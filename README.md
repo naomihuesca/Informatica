@@ -12,7 +12,7 @@ Introducción:
 - [La computadora y su contexto histórico](Tarea1.1.md)
 - [La disciplina de la computación: contexto histórico, evolución e importancia](Tarea1-2.md)
 - [Partes de la computadora](Tarea1-3.md)
-- [Adquisición de una computadora](Tarea1-4.md) 
+- [Adquisición de una computadora](Tarea1.4.md) 
 
 ### UNIDAD II
 Software
