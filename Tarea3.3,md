@@ -2,7 +2,22 @@
 
 ### ¿Qué es la virtualización? ###
 
-La virtualización es un proceso que permite una utilización más eficiente del hardware físico de la computadora y es la base de la computación en la nube.
-El software de virtualización crea una capa de abstracción sobre el hardware de la computadora que permite que los elementos de hardware de una sola computadora (procesadores, memoria, almacenamiento y más) se dividan en múltiples computadoras virtuales, comúnmente llamadas máquinas virtuales (VM).
+La virtualización es un proceso que permite una utilización más eficiente del hardware físico de la computadora 
+y es la base de la computación en la nube. El software de virtualización crea una capa de abstracción sobre el 
+hardware de la computadora que permite que los elementos de hardware de una sola computadora (procesadores, 
+memoria, almacenamiento y más) se dividan en múltiples computadoras virtuales, comúnmente llamadas máquinas virtuales (VM).
 
+### ¿Qué es la maquina virtual? ###
 
+Una máquina virtual (VM) es un entorno de software que simula una computadora completa, incluyendo hardware y sistema 
+operativo, dentro de un sistema informático físico. Permite ejecutar múltiples sistemas operativos y aplicaciones independientes 
+en una misma computadora, compartiendo los recursos físicos como CPU, memoria y almacenamiento. Las máquinas virtuales se utilizan 
+para pruebas, desarrollo de software, aislamiento de aplicaciones y consolidación de servidores, entre otros propósitos, brindando 
+flexibilidad y eficiencia en la gestión de recursos informáticos.
+
+### Instalación del sistema operativo en la máquina virtual ###
+
+1. Haga clic con el botón derecho en la máquina virtual y elija >. Seleccione Sí para iniciar la máquina virtual.
+2. En el menú Control remoto, seleccione Teclas especiales y, a continuación, seleccione Enviar Ctrl+Alt+Eliminar.
+3. Instale el sistema operativo en la máquina virtual. La partición del disco de arranque debe ser la partición Windows.
+4. Una vez que se complete la instalación, finalice la sesión con la máquina virtual y detenga la VM en VMM.
