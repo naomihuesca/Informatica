@@ -8,4 +8,4 @@
 
 <img src="https://github.com/naomihuesca/Informatica/blob/main/Imagenes/Tarea2-4.jpeg" height="400">
 
-
+<img src="https://github.com/naomihuesca/Informatica/blob/main/Imagenes/mapa.jpeg" height="400">
