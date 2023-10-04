@@ -18,9 +18,9 @@ Introducción:
 Software
 - [Conceptos básicos de Software](Tarea2.1.md)
 - [Sistemas de codificación](Tarea2.2.md)
-- [Pseudocodigo]
-- [Algoritmos]
-- [De pseudocódigo a R]
+- [Pseudocodigo](Tarea2.3.md)
+- [Algoritmos](Tarea2.4.md)
+- [De pseudocódigo a R](Tarea2.5.md)
 
 ### UNIDAD III
 Sistemas Operativos
