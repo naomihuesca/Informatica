@@ -15,7 +15,7 @@ en una misma computadora, compartiendo los recursos físicos como CPU, memoria y
 para pruebas, desarrollo de software, aislamiento de aplicaciones y consolidación de servidores, entre otros propósitos, brindando 
 flexibilidad y eficiencia en la gestión de recursos informáticos.
 
-**###Instalación del sistema operativo en la máquina virtual###**
+**Instalación del sistema operativo en la máquina virtual**
 
 1. **Descarga e instala un software de virtualización**: Elige un software de virtualización como VirtualBox. Instala el software en tu computadora.
 
