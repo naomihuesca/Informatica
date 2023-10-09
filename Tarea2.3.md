@@ -7,7 +7,9 @@ El objetivo principal del pseudocódigo es facilitar la comprensión y la comuni
 
 ***EJEMPLO***
 
+
 INICIO
+
    LEER limite_superior
    LEER limite_inferior
 
