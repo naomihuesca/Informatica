@@ -7,14 +7,16 @@ El objetivo principal del pseudocódigo es facilitar la comprensión y la comuni
 
 ***EJEMPLO***
 
-
 INICIO
    LEER limite_superior
    LEER limite_inferior
+
    ESCRIBIR "Números primos en el rango [", limite_inferior, ",", limite_superior, "]:"
+
    PARA numero DESDE limite_inferior HASTA limite_superior HACER
       es_primo = VERDADERO
-   PARA divisor DESDE 2 HASTA (numero / 2) HACER
+
+      PARA divisor DESDE 2 HASTA (numero / 2) HACER
          SI numero MOD divisor == 0 ENTONCES
             es_primo = FALSO
             SALIR DEL BUCLE
@@ -25,9 +27,10 @@ INICIO
          ESCRIBIR numero
       FIN SI
    FIN PARA
+
 FIN
 
---
+
 
 En este pseudocódigo:
 
