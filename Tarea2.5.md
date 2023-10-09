@@ -12,10 +12,12 @@
 #### Luego, repase este tutorial de RMarkdown. Suba el archivo Programacion-en-Pseudocodigo.Rmd al directorio respectivo del proyecto. Abra el archivo y compílelo con knitr para generar el archivo HTML. Ahora estúdielo como repaso de PSeInt
 
 Primero intale el packete **Knitr**
-<img src="https://github.com/naomihuesca/Informatica/blob/main/Imagenes/uno.jpeg" height="50">
+
+<img src="https://github.com/naomihuesca/Informatica/blob/main/Imagenes/uno.jpeg" height="50%">
 
  Despues subi el archivo "Programacion-en-Pseudocodigo.Rmd"
-<img src="https://github.com/naomihuesca/Informatica/blob/main/Imagenes/dos.jpeg" height="50">
+ 
+<img src="https://github.com/naomihuesca/Informatica/blob/main/Imagenes/dos.jpeg" height="50%">
 
 Para convertir el archivo a HTML, use el codigo:
 
