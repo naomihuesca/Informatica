@@ -3,7 +3,7 @@
 Un pseudocódigo es una representación de alto nivel de un algoritmo o programa informático. Es un lenguaje intermedio entre el lenguaje humano y el lenguaje de programación real, diseñado para expresar la lógica de un algoritmo de manera comprensible y cercana al lenguaje humano.
 El objetivo principal del pseudocódigo es facilitar la comprensión y la comunicación de la lógica de un algoritmo entre programadores y diseñadores sin preocuparse por los detalles de la sintaxis de un lenguaje de programación específico. 
 
---
+-----
 
 ***EJEMPLO***
 
@@ -30,7 +30,7 @@ INICIO
 
 FIN
 
-
+-----
 
 En este pseudocódigo:
 
