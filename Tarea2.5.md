@@ -17,8 +17,7 @@ Primero intale el packete **Knitr**
 
  Despues subi el archivo "Programacion-en-Pseudocodigo.Rmd"
  
-<img src="https://github.com/naomihuesca/Informatica/blob/main/Imagenes/cuatro.jpeg
-" height="50%"> 
+<img src="https://github.com/naomihuesca/Informatica/blob/main/Imagenes/cuatro.jpeg" height="50%"> 
 
 Para convertir el archivo a HTML, use el codigo:
 
