@@ -6,4 +6,19 @@
 <img src="https://github.com/naomihuesca/Informatica/blob/main/Imagenes/rstudio.jpeg" height="400">
 
 > Este es el link de mi perfil en donde realize la practica en PisitCloud [LINK](https://posit.cloud/content/6584543)
+>
+> ----
+
+#### Luego, repase este tutorial de RMarkdown. Suba el archivo Programacion-en-Pseudocodigo.Rmd al directorio respectivo del proyecto. Abra el archivo y compílelo con knitr para generar el archivo HTML. Ahora estúdielo como repaso de PSeInt
+
+- Primero intale el packete **Knitr**
+ <img src="(https://github.com/naomihuesca/Informatica/blob/main/Imagenes/uno.jpeg)"/>
+ 
+- Despues subi el archivo "Programacion-en-Pseudocodigo.Rmd"
+
+ 
+- Para convertir el archivo a HTML, use el codigo:
+   
+- Y me creo el archivo final
+
 
