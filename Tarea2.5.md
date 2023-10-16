@@ -28,3 +28,6 @@ Y me creo el archivo final
 <img src="https://github.com/naomihuesca/Informatica/blob/main/Imagenes/tres.jpeg" height="50%">
 
 
+----------------
+
+Este es el link a mi video: https://youtu.be/o2SEefyBCuk
