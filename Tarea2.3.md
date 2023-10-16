@@ -44,7 +44,9 @@ Si la variable es_primo sigue siendo VERDADERA después de la verificación de d
 
 Este pseudocódigo describe un algoritmo para encontrar números primos en un rango específico y proporciona una representación clara de los pasos involucrados en el proceso. Es importante destacar que este es solo un ejemplo, y los algoritmos reales de búsqueda de números primos pueden ser más eficientes, pero este pseudocódigo ilustra los conceptos básicos involucrados en el proceso.
 
+-----------------
 
+Este es el link a mi video: https://youtube.com/shorts/64_a76RYMtc?feature=share
 
 
 
