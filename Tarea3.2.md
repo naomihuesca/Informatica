@@ -66,4 +66,6 @@ TIPOS DE SISTEMAS OPERATIVOS:
 -No hay forma segura de instalarlo sin reparticionar el disco duro.
 -Reparticionar el disco duro, implica borrar toda la información del mismo y después restablecerla.  
 
+------------------
 
+Este es el link de mi video: https://youtu.be/Q36g7PjGpYY 
