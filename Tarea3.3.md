@@ -34,3 +34,9 @@ flexibilidad y eficiencia en la gestión de recursos informáticos.
 8. **Instala herramientas de máquina virtual**: Algunos programas de virtualización ofrecen herramientas o controladores específicos para mejorar el rendimiento. Instala estas herramientas si están disponibles.
 
 9. **Actualiza el sistema operativo**: Después de la instalación, asegúrate de instalar todas las actualizaciones y parches de seguridad necesarios en el sistema operativo de la máquina virtual.
+
+
+
+--------------
+
+Este es el link de mi video: https://youtu.be/eVKnGRzQWa4
