@@ -59,6 +59,8 @@ Es la licencia más ampliamente usada en el mundo del software y garantiza a los
 Es una organización sin fines de lucro que aboga por el software libre y promueve la libertad de los usuarios de computadoras para ejecutar, copiar, distribuir, estudiar, modificar y mejorar el software. La FSF también es conocida por desarrollar y mantener la Licencia Pública General de GNU (GPL) y otras licencias de código abierto. Su fundador, Richard Stallman, ha sido una figura influyente en el movimiento del software libre.
 
 
+-------------
 
+Este es el enlace a mi video: https://youtube.com/shorts/1I36ZrvDmSM?feature=share
 
 
